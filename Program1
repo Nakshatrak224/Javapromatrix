@@ -1,4 +1,4 @@
-public class ProdMatrix    
+public class ProdMatrixes  
 {    
     public static void main (String[] args) {    
         int row1, col1, row2, col2;    
